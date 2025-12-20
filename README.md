@@ -1,16 +1,32 @@
-## Hi there 👋
+# Atif Aninda Rahman  
+Geospatial Data Science | Open-Source GIS
 
-<!--
-**atifanindarahman/atifanindarahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a graduate student in **Geographic Information Science and Cartography** at the University of Denver with a background in **geospatial data science, spatial modeling, and environmental analytics**.
 
-Here are some ideas to get you started:
+My work focuses on **open-source geospatial workflows**, integrating **Python-based analysis, QGIS-compatible processing, and large spatial datasets** to support **infrastructure planning, and environmental decision-making**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Focus
+- Geospatial data science & spatial modeling    
+- Raster & vector processing using open-source tools  
+- Scientific programming and reproducible workflows  
+
+---
+
+## Tools & Technologies
+- **Python** (NumPy, Pandas, SciPy, Matplotlib)
+- GeoPandas, Shapely, PyProj, GDAL  
+- **QGIS**
+- Google Earth Engine  
+- Machine Learning (CNNs, large image datasets)
+
+---
+
+
+
+---
+
+## Contact
+Email: atifaninda.rahman@du.edu  
+LinkedIn: https://linkedin.com/in/atif-aninda-rahman
