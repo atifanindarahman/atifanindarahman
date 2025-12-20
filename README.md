@@ -5,14 +5,12 @@ I am a graduate student in **Geographic Information Science and Cartography** at
 
 My work focuses on **open-source geospatial workflows**, integrating **Python-based analysis, QGIS-compatible processing, and large spatial datasets** to support **infrastructure planning, and environmental decision-making**.
 
----
 
 ## Technical Focus
 - Geospatial data science & spatial modeling    
 - Raster & vector processing using open-source tools  
 - Scientific programming and reproducible workflows  
 
----
 
 ## Tools & Technologies
 - **Python** (NumPy, Pandas, SciPy, Matplotlib)
@@ -21,11 +19,6 @@ My work focuses on **open-source geospatial workflows**, integrating **Python-ba
 - Google Earth Engine  
 - Machine Learning (CNNs, large image datasets)
 
----
-
-
-
----
 
 ## Contact
 Email: atifaninda.rahman@du.edu  
