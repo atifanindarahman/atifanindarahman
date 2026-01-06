@@ -15,9 +15,10 @@ My work focuses on **open-source geospatial workflows**, integrating **Python-ba
 ## Tools & Technologies
 - **Python** (NumPy, Pandas, SciPy, Matplotlib)
 - GeoPandas, Shapely, PyProj, GDAL  
-- **QGIS**
+- QGIS
 - Google Earth Engine  
-- Machine Learning (CNNs, large image datasets)
+- Machine Learning (CNNs)
+- ArcGIS
 
 
 ## Contact
