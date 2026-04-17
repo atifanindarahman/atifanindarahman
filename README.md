@@ -15,7 +15,7 @@ reproducible Python workflows. Background in Urban and Regional Planning.
 ## Tools & Technologies
 - **Python**: Pandas, NumPy, GeoPandas, ArcPy, Matplotlib, Scikit-learn, TensorFlow
 - **GIS**: ArcGIS Pro, ArcGIS Online QGIS, Google Earth Engine
-- **Data**: SQL, NHTS, Smart Location Database, GTFS, Origin-Destination analysis
+- **Data**: SQL, NHTS, Smart Location Database, Origin-Destination analysis
 - **Other**: Jupyter, Git, GDAL
 
 ## Current Projects
