@@ -1,26 +1,29 @@
-# Atif Aninda Rahman  
-Geospatial Data Science | Open-Source GIS
+# Atif Aninda Rahman
 
-I am a graduate student in **Geographic Information Science and Cartography** at the University of Denver with a background in **geospatial data science, spatial modeling, and environmental analytics**.
+Graduate Researcher | GIS & Transportation Data Science | University of Denver
 
-My work focuses on **open-source geospatial workflows**, integrating **Python-based analysis, QGIS-compatible processing, and large spatial datasets** to support **infrastructure planning, and environmental decision-making**.
+MS student in Geographic Information Science (STEM) specializing in 
+transportation accessibility, large-scale mobility data analysis, and 
+reproducible Python workflows. Background in Urban and Regional Planning.
 
-
-## Technical Focus
-- Geospatial data science & spatial modeling    
-- Raster & vector processing using open-source tools  
-- Scientific programming and reproducible workflows  
-
+## Focus Areas
+- Transportation accessibility & travel behavior analysis
+- Large-scale mobility data (NHTS, Smart Location Database)
+- GIS database design & spatial modeling
+- Machine learning applied to geospatial problems
 
 ## Tools & Technologies
-- **Python** (NumPy, Pandas, SciPy, Matplotlib)
-- GeoPandas, Shapely, PyProj, GDAL  
-- QGIS
-- Google Earth Engine  
-- Machine Learning (CNNs)
-- ArcGIS
+- **Python**: Pandas, NumPy, GeoPandas, ArcPy, Matplotlib, Scikit-learn, TensorFlow
+- **GIS**: ArcGIS Pro, ArcGIS Online QGIS, Google Earth Engine
+- **Data**: SQL, NHTS, Smart Location Database, GTFS, Origin-Destination analysis
+- **Other**: Jupyter, Git, GDAL
 
+## Current Projects
+- 15-Minute City Accessibility Tool for Denver (ArcPy + ArcGIS Pro)
+- Urban Accessibility Analysis using NHTS 2022 OD data
+- Origin-Destination X-Minute City modeling
 
 ## Contact
 Email: atifaninda.rahman@du.edu  
-LinkedIn: https://linkedin.com/in/atif-aninda-rahman
+LinkedIn: linkedin.com/in/atif-aninda-rahman  
+Website: atifanindarahman.com
