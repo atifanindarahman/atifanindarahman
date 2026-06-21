@@ -1,6 +1,6 @@
 # Atif Aninda Rahman
 
-Graduate Researcher | Geospatial & Transportation Data Science | Python · GDAL · QGIS · ArcGIS Pro| University of Denver
+Graduate Researcher | Geospatial & Transportation Data Science | Python · GDAL · QGIS · ArcGIS Pro | University of Denver
 
 MS student in Geographic Information Science (STEM) specializing in energy evelopment siting, protected land analysis, 
 transportation accessibility, large-scale mobility data analysis, and 
