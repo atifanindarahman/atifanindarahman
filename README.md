@@ -21,7 +21,7 @@ reproducible open source Python workflows. Background in Urban and Regional Plan
 - **Computing:** Bash, Git, Jupyter, Parallel Processing, HPC patterns
 
 ## Current Projects
-- Solar and wind energy siting using NREL NSRDB, USGS PAD-US, and terrain data
+- Solar and wind energy siting using SolarGIS GHI data, NLR NSRDB, USGS PAD-US, and terrain data
 - Parallel geospatial processing pipelines (concurrent.futures → HPC job arrays)
 - GDAL/OGR CLI workflows for large dataset automation
 - 15-Minute City Accessibility Tool for Denver (ArcPy + ArcGIS Pro)
